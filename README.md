@@ -1,4 +1,4 @@
-# test-vue2
+# biubiu-app
 
 ## Project setup
 ```
